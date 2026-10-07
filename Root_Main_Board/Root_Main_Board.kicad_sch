@@ -1,0 +1,336 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "d4ee0ec4-e152-46b2-a38a-a77a34968e99")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 15.24 15.24)
+		(size 55.88 44.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "067a9d53-39a7-4c0a-819d-f34ecf44c6f1")
+		(property "Sheetname" "BMS"
+			(at 15.24 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BMS.kicad_sch"
+			(at 15.24 60.2746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Root_Main_Board"
+				(path "/d4ee0ec4-e152-46b2-a38a-a77a34968e99"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 68.58)
+		(size 59.69 46.99)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "0fd3038a-4aa6-4640-a0ec-956fbcc0c9d9")
+		(property "Sheetname" "ESP32"
+			(at 76.2 67.8684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 76.2 116.1546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Root_Main_Board"
+				(path "/d4ee0ec4-e152-46b2-a38a-a77a34968e99"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 68.58)
+		(size 55.88 46.99)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "70f5b5fe-19de-41f2-a55b-ea21f979f40b")
+		(property "Sheetname" "SD card"
+			(at 15.24 67.8684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Memory.kicad_sch"
+			(at 15.24 116.1546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Root_Main_Board"
+				(path "/d4ee0ec4-e152-46b2-a38a-a77a34968e99"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 15.24)
+		(size 59.69 44.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a1ecd773-4003-47d4-81d3-838d5743afa3")
+		(property "Sheetname" "BT Module"
+			(at 76.2 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BT_Module.kicad_sch"
+			(at 76.2 60.2746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Root_Main_Board"
+				(path "/d4ee0ec4-e152-46b2-a38a-a77a34968e99"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 212.09 17.78)
+		(size 66.04 115.57)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a80c5497-045c-489e-b7d0-330a88575760")
+		(property "Sheetname" "Cell Actuation Board Connections"
+			(at 212.09 17.0684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Cell_Actuation_Connections.kicad_sch"
+			(at 212.09 133.9346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Root_Main_Board"
+				(path "/d4ee0ec4-e152-46b2-a38a-a77a34968e99"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 121.92)
+		(size 59.69 48.26)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "dd4ff8b7-22c8-42a9-b40b-5b8952cdb5f5")
+		(property "Sheetname" "Mic"
+			(at 76.2 121.2084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mic.kicad_sch"
+			(at 76.2 170.7646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Root_Main_Board"
+				(path "/d4ee0ec4-e152-46b2-a38a-a77a34968e99"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 121.92)
+		(size 55.88 67.31)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e3e6ea69-fe0a-4185-bea8-d95be92ceb92")
+		(property "Sheetname" "Speaker"
+			(at 15.24 121.2084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Speaker.kicad_sch"
+			(at 15.24 189.8146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Root_Main_Board"
+				(path "/d4ee0ec4-e152-46b2-a38a-a77a34968e99"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
