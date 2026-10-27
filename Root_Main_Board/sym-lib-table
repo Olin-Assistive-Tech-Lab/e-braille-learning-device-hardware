@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "christ_ismael_OAT") (type "KiCad") (uri "${KIPRJMOD}/libs/symbols/christ_ismael_OAT.kicad_sym") (options "") (descr ""))
+	(lib (name "eleane_OAT") (type "KiCad") (uri "${KIPRJMOD}/libs/symbols/eleane_OAT.kicad_sym") (options "") (descr ""))
+	(lib (name "tierra_OAT") (type "KiCad") (uri "${KIPRJMOD}/libs/symbols/tierra_OAT.kicad_sym") (options "") (descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "OAT_footprints") (type "KiCad") (uri "${KIPRJMOD}/libs/footprints/OAT_footprints.pretty") (options "") (descr ""))
+)
